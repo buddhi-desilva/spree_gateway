@@ -3,3 +3,8 @@
 
 en:
   hello: "Hello world"
+
+  mid: Merchant ID
+  test_url: Test URL
+  live_url: Live URL
+  refund_auth_code: Refund auth code
